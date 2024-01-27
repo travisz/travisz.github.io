@@ -1,5 +1,5 @@
 title: Travis Z.
 description: Simple website for tech information!
-remote_theme: just-the-docs
+theme: just-the-docs
 
 url: https://travisz.github.io
