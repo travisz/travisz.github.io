@@ -1,11 +1,11 @@
 ---
-title: Test Page A
+title: Test Page B
 layout: post
 parent: Home
-nav_order: 2
+nav_order: 3
 ---
 
-# Test A
+# Test B
 Just a test page
 
 Quick commit
