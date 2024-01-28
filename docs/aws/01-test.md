@@ -1,5 +1,5 @@
 ---
-title: Test Page for AWS
+title: AWS
 layout: post
 parent: Home
 nav_order: 2

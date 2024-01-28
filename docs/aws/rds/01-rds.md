@@ -1,5 +1,5 @@
 ---
-title: Test Page for RDS
+title: RDS
 layout: post
 parent: AWS
 nav_order: 2
