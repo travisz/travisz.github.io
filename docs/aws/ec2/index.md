@@ -2,7 +2,8 @@
 title: EC2
 layout: default
 parent: AWS
-nav_order: 2
+nav_order: 1
 ---
 
-# EC2 Landing Page
+# Test EC2
+EC2 Landing page
