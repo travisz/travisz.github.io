@@ -1,8 +1,9 @@
 ---
 title: AWS
-layout: post
+layout: default
 parent: Home
 has_children: true
+nav_order: 1
 ---
 
 # Test AWS
